@@ -1,8 +1,8 @@
 
 students = {
-    "Jay": 90,
-    "Mark": 85,
-    "John": 92
+    "Allen": 90,
+    "JC": 85,
+    "Jay Carl": 92
 }
 
 while True:
